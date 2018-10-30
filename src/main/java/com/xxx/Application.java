@@ -1,4 +1,4 @@
-package com.xxx.xxx_springboot_example;
+package com.xxx;
 
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;
